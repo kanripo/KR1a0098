@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易象旨決錄
-#+DATE: 2015-09-23 09:35:09
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:57:40.228467
+#+PROPERTY: ID KR1a0098
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0098_WYG_007-1a>¶
 欽定四庫全書¶
 　周易象㫖决録卷七¶
@@ -890,4 +892,3 @@
 　賢去邪疑謀勿成以為夬耳胡仲虎言有可採者因¶
 　括而附末簡焉¶
 　周易象㫖决録卷七¶
-
